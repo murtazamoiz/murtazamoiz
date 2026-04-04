@@ -1,6 +1,10 @@
 # 💫 About Me:
-Hello, I'm Murtaza<br>I'm a software developer interested in building backend as well as full-stack projects.<br>I generally find building from scratch very interesting and powerful. I like the ability and freedom that comes with customaization.<br>I enjoy my time coding and would very much like to work on something big one day.
-
+Hello, I’m Murtaza.<br>
+I write code for a living—and occasionally for fun. I’m a software developer who enjoys building backend and full-stack projects from scratch—partly for the learning, and partly because I clearly enjoy making life harder than it needs to be.<br>
+I have a soft spot for building things from scratch. Frameworks are great, but there’s something deeply satisfying about knowing exactly why everything works… and exactly who to blame when it doesn’t. There’s a certain freedom in not relying on black boxes… and a certain chaos in willingly reinventing them.<br>
+ I spend a good portion of my time coding, occasionally debugging, chasing down edge cases, and turning vague ideas into something functional (and ideally elegant). What I aslo spend my time on is frequently questioning my life choices—usually right before everything finally works.<br>
+Long term, I’m aiming to work on something large, meaningful, and slightly intimidating. The kind of project that makes you question your decisions halfway through, but feels worth it by the end.<br>
+Until then, I’ll be here, writing code, breaking things, fixing them, and pretending it was all part of the plan.<br>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/rogue-mg.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/indifferently_mg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murtaza-moiz-5024bb217) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Murtaza_Moiz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MurtazaMG) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19562223) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murtazagheewala00@gmail.com) 
